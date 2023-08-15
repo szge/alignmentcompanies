@@ -3,7 +3,9 @@ This is list of companies that might be interesting to someone looking to work o
 
 Feel free to submit PRs with additions or changes.
 
-[Robust Intelligence](https://robustintelligence.com/)
+Keywords: AI alignment, AI safety, AGI, superintelligence, effective altruism
+
+[Robust Intelligence](https://robustintelligenc~e.com/)
 * Mission: eliminate risks introduced by AI technologies
 * Work: monitor and detect AI failures, detect model weaknesses in pre-deployment, "AI Firewall" in post-deployment
 * Location: San Francisco and Menlo Park, CA
